@@ -5,3 +5,4 @@ print("more hello world")
 
 
 run_feature.run()
+run_feature.cat("Orange")
